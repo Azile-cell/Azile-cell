@@ -1,50 +1,81 @@
 # Hi, I'm Azile Gomomo 👋
 
-I'm a BCom Information Systems student at the University of Johannesburg with an interest in software development, databases, and data-driven problem solving.
+I'm a BCom Information Systems student at the University of Johannesburg and an aspiring software developer.
 
-I enjoy understanding how technology can be used to solve real-world business problems, and I'm currently building my technical skills through coursework, independent learning, and practical projects.
+I’m developing my skills through coursework, independent learning, and practical projects that solve real-world problems.
 
-## 💻 Technical Skills
+## 👩‍💻 About Me
 
-- C#
-- .NET
-- SQL
-- Object-Oriented Programming
-- Windows Forms
-- Database Fundamentals
-- Git & GitHub (Basic)
+* 🔭 I’m currently developing **ResolveIT**, an IT support ticket system.
+* ♿ I designed the concept and published a prototype of **Fikelela**, an accessibility-focused course discovery platform.
+* 🌱 I’m learning ASP.NET Core MVC, Entity Framework Core, SQL, HTML, CSS, JavaScript, Python, and Microsoft Azure fundamentals.
+* 🎯 My goal is to become a capable software developer with strong full-stack and database skills.
+
+## 🛠️ Technical Skills
+
+* C# and .NET
+* Object-Oriented Programming
+* Windows Forms
+* SQL and database 
+* Git and GitHub
+* HTML, CSS, and JavaScript fundamentals
 
 ## 🚀 Projects
 
+### ResolveIT
+
+An ASP.NET Core MVC application that allows students and staff to submit IT support tickets and enables an IT support team to manage them.
+
+The project currently includes ticket creation, validation, ticket priorities, ticket statuses, and ticket listing. I’m currently adding Entity Framework Core and SQLite database storage.
+
+### Fikelela
+
+An accessibility-first platform concept that helps learners discover free courses according to accessibility requirements such as screen-reader support, keyboard navigation, captions, transcripts, and low-data options.
+
+I developed the concept and published an AI-assisted proof-of-concept for the Geekulcha Annual Hackathon 2026.
+
+[View Live Demo](https://azile-cell.github.io/-Fikelela/) | [View Repository](https://github.com/Azile-cell/-Fikelela)
+
 ### C# Learning Journey
-A collection of selected C# exercises and applications from my first year of programming, covering inheritance, polymorphism, arrays, exception handling, file handling, OOP, and Windows Forms.
+
+A collection of selected C# exercises and applications covering inheritance, polymorphism, arrays, exception handling, file handling, object-oriented programming, and Windows Forms.
 
 [View Repository](https://github.com/Azile-cell/csharp-learning-journey)
 
 ### SQL Video Games Project
-A SQL project completed while developing my database querying and data analysis skills.
+
+A SQL project completed while developing my database querying and data-analysis skills.
 
 [View Repository](https://github.com/Azile-cell/datacamp-sql-video-games-project)
 
-## 📚 Currently Developing
+## 📚 Currently Learning
 
-- SQL and database development
-- Python
-- Data analysis skills
-- Git and GitHub
-- Microsoft Azure fundamentals
-- Real-world software and database projects
+* ASP.NET Core MVC
+* Entity Framework Core
+* SQL and database development
+* HTML, CSS, and JavaScript
+* Python
+* Microsoft Azure fundamentals
+* Git and GitHub
 
 ## 🎯 Career Interests
 
-I'm particularly interested in opportunities involving:
+* Software Development
+* Database Development
+* Data Engineering
+* Data Analysis
+* Cloud Technologies
+## 🌐 Connect With Me
 
-- Databases
-- Data Engineering
-- Software Development
-- Data Analysis
-- Cloud Technologies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://za.linkedin.com/in/azile-gomomo-520b33366)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gomomoazile68@gmail.com)
 
-## 📈 My Goal
+## 📊 GitHub Activity
 
-My goal is to continuously improve my technical and problem-solving skills while building projects that demonstrate what I can do beyond the classroom.
+![Azile's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Azile-cell&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false)
+
+![Azile's GitHub Streak](https://streak-stats.demolab.com/?user=Azile-cell&theme=ayu-mirage&hide_border=false)
+
+### ✍️ Random Developer Quote
+
+![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
