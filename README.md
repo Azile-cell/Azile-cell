@@ -6,10 +6,10 @@ I’m developing my skills through coursework, independent learning, and practic
 
 ## 👩‍💻 About Me
 
-* 🔭 I’m currently developing **ResolveIT**, an IT support ticket system.
-* ♿ I designed the concept and published a prototype of **Fikelela**, an accessibility-focused course discovery platform.
-* 🌱 I’m learning ASP.NET Core MVC, Entity Framework Core, SQL, HTML, CSS, JavaScript, Python, and Microsoft Azure fundamentals.
-* 🎯 My goal is to become a capable software developer with strong full-stack and database skills.
+* I’m currently developing **ResolveIT**, an IT support ticket system.
+* I designed the concept and published a prototype of **Fikelela**, an accessibility-focused course discovery platform.
+* I’m learning ASP.NET Core MVC, Entity Framework Core, SQL, HTML, CSS, JavaScript, Python, and Microsoft Azure fundamentals.
+* My goal is to become a capable software developer with strong full-stack and database skills.
 
 ## 🛠️ Technical Skills
 
