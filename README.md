@@ -11,6 +11,26 @@ I enjoy building practical software, exploring databases, and using technology t
 [![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://github.com/Azile-cell/Azile-portfolio)
 
 </div>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=BCom+Information+Systems+Student;Aspiring+Software+Developer;Building+Practical+Software+Solutions;Interested+in+Databases+and+Accessible+Technology"
+    alt="Animated introduction"
+  />
+</a>
+
+<details>
+<summary><strong>📂 Click to view more projects</strong></summary>
+
+<br>
+
+- 🌐 [Personal Portfolio](https://github.com/Azile-cell/Azile-portfolio)
+- 🤖 [AI Productivity Assistant](https://github.com/Azile-cell/AI-Productivity-Assistant)
+- 💻 [C# Learning Journey](https://github.com/Azile-cell/csharp-learning-journey)
+- 🎮 [SQL Video Games Project](https://github.com/Azile-cell/-datacamp-sql-video-games-project)
+
+</details>
+
+
 
 ## 👩‍💻 About Me
 
@@ -98,25 +118,6 @@ A student-support and service-routing prototype built during the UJ DevSoc Hacka
 * Data Analysis
 * Cloud Technologies
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azile-cell&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Azile%20Gomomo%27s%20GitHub%20Stats" alt="Azile Gomomo's GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azile-cell&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Azile Gomomo's most used languages" />
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=Azile-cell&theme=tokyonight&hide_border=true" alt="Azile Gomomo's GitHub contribution streak" />
-
-</div>
-
-## ✍️ Random Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
-
-</div>
 
 ## 📫 Get in Touch
 
@@ -135,6 +136,11 @@ I’m open to learning opportunities, bursaries, internships, hackathons, and co
 
 ![Azile's GitHub Streak](https://streak-stats.demolab.com/?user=Azile-cell&theme=ayu-mirage&hide_border=false)
 
-### ✍️ Random Developer Quote
+## ✍️ Random Developer Quote
 
-![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+
+</div>
+ 
