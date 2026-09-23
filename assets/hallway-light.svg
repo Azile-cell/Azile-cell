@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+  <title id="title">The hallway light stays on</title>
+  <desc id="desc">A calm red heartbeat line and a closing invitation to return.</desc>
+
+  <style>
+    .base { fill: none; stroke: #7A0010; stroke-width: 2; opacity: .55; }
+    .heart { fill: none; stroke: #FF1F2D; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1080; stroke-dashoffset: 1080; animation: heartbeat 6s ease-in-out infinite; }
+    .dot { fill: #FFD9D9; filter: url(#hot); }
+    .closing { fill: #FFD9D9; font: 600 21px ui-monospace, Consolas, "Courier New", monospace; text-anchor: middle; }
+    .small { fill: #FF5A5F; font: 500 12px ui-monospace, Consolas, "Courier New", monospace; text-anchor: middle; letter-spacing: 3px; }
+    @keyframes heartbeat {
+      0% { stroke-dashoffset: 1080; opacity: .45; }
+      55%, 100% { stroke-dashoffset: 0; opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .heart { animation: none !important; stroke-dashoffset: 0; }
+      .dot { display: none; }
+    }
+  </style>
+
+  <defs>
+    <filter id="hot" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="180" rx="24" fill="#000000"/>
+
+  <path class="base" d="M45 70H250L275 70L293 40L317 112L341 54L363 70H855"/>
+  <path id="pulsePath" class="heart" d="M45 70H250L275 70L293 40L317 112L341 54L363 70H855" filter="url(#hot)"/>
+
+  <circle class="dot" r="5">
+    <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#pulsePath"/>
+    </animateMotion>
+  </circle>
+
+  <text class="closing" x="450" y="133">The hallway light stays on. Come back anytime.</text>
+  <text class="small" x="450" y="159">AT  •  STILL LEARNING  •  STILL BUILDING</text>
+</svg>
