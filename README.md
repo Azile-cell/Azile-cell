@@ -46,7 +46,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/snake-rest.svg">
-  <img src="assets/github-snake.svg" width="100%" alt="Animated red snake moving across Azile Gomomo's GitHub contribution grid">
+  <img src="https://raw.githubusercontent.com/Azile-cell/Azile-cell/output/github-snake.svg" width="100%" alt="Animated red snake moving across Azile Gomomo's GitHub contribution grid">
 </picture>
 
 <div align="center">
