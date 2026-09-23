@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 1260" role="img" aria-labelledby="title desc">
+  <title id="title">Azile Gomomo's project workshop</title>
+  <desc id="desc">Seven dark project cards with breathing red LED borders.</desc>
+
+  <style>
+    .panel { fill: #0A0A0A; stroke: #7A0010; stroke-width: 2; animation: breathe 8s ease-in-out infinite; }
+    .c2 .panel { animation-delay: -1s; }
+    .c3 .panel { animation-delay: -2s; }
+    .c4 .panel { animation-delay: -3s; }
+    .c5 .panel { animation-delay: -4s; }
+    .c6 .panel { animation-delay: -5s; }
+    .c7 .panel { animation-delay: -6s; }
+    .number { fill: #FF1F2D; font: 700 13px ui-monospace, Consolas, "Courier New", monospace; }
+    .project { fill: #FFD9D9; font: 800 28px ui-monospace, Consolas, "Courier New", monospace; }
+    .body { fill: #FFD9D9; font: 500 17px ui-monospace, Consolas, "Courier New", monospace; }
+    .tech { fill: #FF5A5F; font: 600 13px ui-monospace, Consolas, "Courier New", monospace; letter-spacing: 1px; }
+    .pill { fill: #000000; stroke: #FF1F2D; stroke-width: 1.5; }
+    .pillText { fill: #FF5A5F; font: 700 11px ui-monospace, Consolas, "Courier New", monospace; text-anchor: middle; letter-spacing: 1px; }
+    .rail { stroke: #FF1F2D; stroke-width: 4; stroke-linecap: round; stroke-dasharray: 34 120; animation: railMove 9s linear infinite; }
+    .c2 .rail { animation-delay: -1s; }
+    .c3 .rail { animation-delay: -2s; }
+    .c4 .rail { animation-delay: -3s; }
+    .c5 .rail { animation-delay: -4s; }
+    .c6 .rail { animation-delay: -5s; }
+    .c7 .rail { animation-delay: -6s; }
+
+    @keyframes breathe {
+      0%, 100% { stroke-opacity: .4; filter: url(#soft); }
+      50% { stroke-opacity: 1; filter: url(#hot); }
+    }
+
+    @keyframes railMove {
+      to { stroke-dashoffset: -308; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .panel, .rail { animation: none !important; }
+      .panel { stroke-opacity: .8; filter: url(#soft); }
+      .rail { stroke-dasharray: none; opacity: .75; }
+    }
+  </style>
+
+  <defs>
+    <filter id="soft" x="-30%" y="-40%" width="160%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="hot" x="-40%" y="-50%" width="180%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="700" height="1260" rx="24" fill="#000000"/>
+
+  <g class="card c1" transform="translate(25 25)">
+    <rect class="panel" width="650" height="150" rx="20"/>
+    <line class="rail" x1="25" y1="27" x2="25" y2="123" filter="url(#hot)"/>
+    <text class="number" x="50" y="30">ROOM 01</text>
+    <text class="project" x="50" y="62">ResolveIT</text>
+    <rect class="pill" x="468" y="20" width="158" height="28" rx="14"/>
+    <text class="pillText" x="547" y="39">FUNCTIONAL MVP</text>
+    <text class="body" x="50" y="92">IT support tickets with full create, view, edit and delete flows.</text>
+    <text class="body" x="50" y="117">Validation, priorities, statuses and persistent SQLite storage.</text>
+    <text class="tech" x="50" y="140">C#  •  ASP.NET CORE MVC  •  EF CORE  •  SQLITE</text>
+  </g>
+
+  <g class="card c2" transform="translate(25 200)">
+    <rect class="panel" width="650" height="150" rx="20"/>
+    <line class="rail" x1="25" y1="27" x2="25" y2="123" filter="url(#hot)"/>
+    <text class="number" x="50" y="30">ROOM 02</text>
+    <text class="project" x="50" y="62">Fikelela</text>
+    <rect class="pill" x="500" y="20" width="126" height="28" rx="14"/>
+    <text class="pillText" x="563" y="39">PROTOTYPE</text>
+    <text class="body" x="50" y="92">Accessibility-first course discovery proof of concept.</text>
+    <text class="body" x="50" y="117">Prepared while applying for a Geekulcha hackathon.</text>
+    <text class="tech" x="50" y="140">JAVASCRIPT  •  HTML  •  CSS  •  GITHUB PAGES</text>
+  </g>
+
+  <g class="card c3" transform="translate(25 375)">
+    <rect class="panel" width="650" height="150" rx="20"/>
+    <line class="rail" x1="25" y1="27" x2="25" y2="123" filter="url(#hot)"/>
+    <text class="number" x="50" y="30">ROOM 03</text>
+    <text class="project" x="50" y="62">UJ Compass</text>
+    <rect class="pill" x="485" y="20" width="141" height="28" rx="14"/>
+    <text class="pillText" x="555" y="39">HACKATHON</text>
+    <text class="body" x="50" y="92">Student support and service-routing prototype.</text>
+    <text class="body" x="50" y="117">Built during the UJ DevSoc Hackathon 2026.</text>
+    <text class="tech" x="50" y="140">HTML  •  STUDENT SUPPORT  •  SERVICE ROUTING</text>
+  </g>
+
+  <g class="card c4" transform="translate(25 550)">
+    <rect class="panel" width="650" height="150" rx="20"/>
+    <line class="rail" x1="25" y1="27" x2="25" y2="123" filter="url(#hot)"/>
+    <text class="number" x="50" y="30">ROOM 04</text>
+    <text class="project" x="50" y="62">Azile Portfolio</text>
+    <rect class="pill" x="500" y="20" width="126" height="28" rx="14"/>
+    <text class="pillText" x="563" y="39">PORTFOLIO</text>
+    <text class="body" x="50" y="92">A personal space for projects, skills, education,</text>
+    <text class="body" x="50" y="117">certifications and experience.</text>
+    <text class="tech" x="50" y="140">HTML  •  PERSONAL PORTFOLIO</text>
+  </g>
+
+  <g class="card c5" transform="translate(25 725)">
+    <rect class="panel" width="650" height="150" rx="20"/>
+    <line class="rail" x1="25" y1="27" x2="25" y2="123" filter="url(#hot)"/>
+    <text class="number" x="50" y="30">ROOM 05</text>
+    <text class="project" x="50" y="62">AI Productivity Assistant</text>
+    <rect class="pill" x="520" y="20" width="106" height="28" rx="14"/>
+    <text class="pillText" x="573" y="39">PROJECT</text>
+    <text class="body" x="50" y="92">Workplace productivity concept for email, meetings,</text>
+    <text class="body" x="50" y="117">planning, research assistance and chatbot support.</text>
+    <text class="tech" x="50" y="140">TYPESCRIPT  •  AI PRODUCTIVITY</text>
+  </g>
+
+  <g class="card c6" transform="translate(25 900)">
+    <rect class="panel" width="650" height="150" rx="20"/>
+    <line class="rail" x1="25" y1="27" x2="25" y2="123" filter="url(#hot)"/>
+    <text class="number" x="50" y="30">ROOM 06</text>
+    <text class="project" x="50" y="62">C# Learning Journey</text>
+    <rect class="pill" x="500" y="20" width="126" height="28" rx="14"/>
+    <text class="pillText" x="563" y="39">LEARNING</text>
+    <text class="body" x="50" y="92">Selected exercises and applications from my journey.</text>
+    <text class="body" x="50" y="117">OOP, arrays, files, exceptions and Windows Forms.</text>
+    <text class="tech" x="50" y="140">C#  •  OOP  •  WINDOWS FORMS</text>
+  </g>
+
+  <g class="card c7" transform="translate(25 1075)">
+    <rect class="panel" width="650" height="150" rx="20"/>
+    <line class="rail" x1="25" y1="27" x2="25" y2="123" filter="url(#hot)"/>
+    <text class="number" x="50" y="30">ROOM 07</text>
+    <text class="project" x="50" y="62">SQL Video Games</text>
+    <rect class="pill" x="470" y="20" width="156" height="28" rx="14"/>
+    <text class="pillText" x="548" y="39">DATA PROJECT</text>
+    <text class="body" x="50" y="92">Analysis of game sales, critic scores and user scores.</text>
+    <text class="body" x="50" y="117">Completed while strengthening SQL querying skills.</text>
+    <text class="tech" x="50" y="140">SQL  •  DATA ANALYSIS  •  DATACAMP</text>
+  </g>
+</svg>
