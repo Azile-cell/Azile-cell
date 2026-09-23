@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" role="img" aria-labelledby="title desc">
+  <title id="title">The Doorbell</title>
+  <desc id="desc">A glowing red contact sign with a travelling LED pulse.</desc>
+
+  <style>
+    .label { fill: url(#flow); font: 700 28px ui-monospace, Consolas, "Courier New", monospace; }
+    .sub { fill: #FF5A5F; font: 500 13px ui-monospace, Consolas, "Courier New", monospace; letter-spacing: 2px; }
+    .line { stroke: #7A0010; stroke-width: 2; }
+    .traveller { filter: url(#glow); }
+    @media (prefers-reduced-motion: reduce) {
+      .label { fill: #FF1F2D !important; }
+      .traveller { display: none; }
+    }
+  </style>
+
+  <defs>
+    <filter id="glow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="-150" x2="250">
+      <stop offset="0" stop-color="#7A0010"/>
+      <stop offset=".5" stop-color="#FFD9D9"/>
+      <stop offset="1" stop-color="#FF1F2D"/>
+      <animate attributeName="x1" values="-200;300" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="200;700" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="100" rx="20" fill="#000000"/>
+  <text class="label" x="34" y="46" filter="url(#glow)">the doorbell</text>
+  <text class="sub" x="36" y="73">RING IF YOU WANT TO BUILD SOMETHING</text>
+  <line class="line" x1="360" y1="50" x2="852" y2="50"/>
+  <g class="traveller">
+    <circle cx="0" cy="50" r="5" fill="#FFD9D9"/>
+    <animateTransform attributeName="transform" type="translate" from="360 0" to="852 0" dur="7.8s" repeatCount="indefinite"/>
+  </g>
+</svg>
