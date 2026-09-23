@@ -1,146 +1,68 @@
 <div align="center">
-
-# Hi, I'm Azile Gomomo 👋
-
-### BCom Information Systems Student | Aspiring Software Developer
-
-I enjoy building practical software, exploring databases, and using technology to solve real-world problems.
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gomomoazile68@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Azile-cell)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://github.com/Azile-cell/Azile-portfolio)
-
+  <img src="assets/hero.svg" width="100%" alt="Animated red LED welcome sign introducing Azile Gomomo, also known as AT">
 </div>
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=BCom+Information+Systems+Student;Aspiring+Software+Developer;Building+Practical+Software+Solutions;Interested+in+Databases+and+Accessible+Technology"
-    alt="Animated introduction"
-  />
-</a>
 
-<details>
-<summary><strong>📂 Click to view more projects</strong></summary>
+<img src="assets/room-living.svg" width="100%" alt="The Living Room, an animated red LED section sign">
 
-<br>
+<img src="assets/about.svg" width="100%" alt="About Azile Gomomo: BCom Information Systems student at UJ pursuing full-stack and database development">
 
-- 🌐 [Personal Portfolio](https://github.com/Azile-cell/Azile-portfolio)
-- 🤖 [AI Productivity Assistant](https://github.com/Azile-cell/AI-Productivity-Assistant)
-- 💻 [C# Learning Journey](https://github.com/Azile-cell/csharp-learning-journey)
-- 🎮 [SQL Video Games Project](https://github.com/Azile-cell/-datacamp-sql-video-games-project)
+<img src="assets/room-workshop.svg" width="100%" alt="The Workshop, an animated red LED section sign for Azile's projects">
 
-</details>
-
-
-
-## 👩‍💻 About Me
-
-* ✅ I completed the first functional version of **ResolveIT**, an IT support ticket management system.
-* ♿ I designed and published **Fikelela**, an accessibility-focused course discovery prototype.
-* 💡 I enjoy turning ideas into practical applications and prototypes.
-* 🌱 I’m continuing to learn ASP.NET Core MVC, Entity Framework Core, SQL, JavaScript, Python, and Microsoft Azure.
-* 🎯 My goal is to become a capable software developer with strong full-stack and database skills.
-
-## 🛠️ Technologies and Tools
+<img src="assets/projects.svg" width="100%" alt="Seven project cards for ResolveIT, Fikelela, UJ Compass, Azile Portfolio, AI Productivity Assistant, C# Learning Journey, and SQL Video Games">
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<a href="https://github.com/Azile-cell/Resolve-IT"><img src="https://img.shields.io/badge/ResolveIT-OPEN-FF1F2D?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=white" alt="Open ResolveIT"></a> <a href="https://github.com/Azile-cell/-Fikelela"><img src="https://img.shields.io/badge/Fikelela-OPEN-FF1F2D?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=white" alt="Open Fikelela"></a> <a href="https://github.com/Azile-cell/UJ-Compass"><img src="https://img.shields.io/badge/UJ_Compass-OPEN-FF1F2D?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=white" alt="Open UJ Compass"></a> <a href="https://github.com/Azile-cell/Azile-portfolio"><img src="https://img.shields.io/badge/Portfolio-OPEN-FF1F2D?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=white" alt="Open Azile's portfolio"></a> <a href="https://github.com/Azile-cell/AI-Productivity-Assistant"><img src="https://img.shields.io/badge/AI_Assistant-OPEN-FF1F2D?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=white" alt="Open AI Productivity Assistant"></a> <a href="https://github.com/Azile-cell/csharp-learning-journey"><img src="https://img.shields.io/badge/C%23_Journey-OPEN-FF1F2D?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=white" alt="Open C sharp Learning Journey"></a> <a href="https://github.com/Azile-cell/-datacamp-sql-video-games-project"><img src="https://img.shields.io/badge/SQL_Project-OPEN-FF1F2D?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=white" alt="Open SQL Video Games Project"></a>
 
 </div>
 
-## 🚀 Featured Projects
-
-### 🎫 [ResolveIT](https://github.com/Azile-cell/Resolve-IT)
-
-![Status](https://img.shields.io/badge/Status-Functional_MVP-2EA44F?style=flat-square)
-![C#](https://img.shields.io/badge/C%23-ASP.NET_Core-512BD4?style=flat-square)
-
-A functional IT support ticket management application built with ASP.NET Core MVC.
-
-ResolveIT supports ticket creation, validation, priorities, statuses, detailed views, editing, deletion, and persistent SQLite database storage through Entity Framework Core. The responsive interface uses Razor, HTML, CSS, and Bootstrap.
-
-[View the ResolveIT repository](https://github.com/Azile-cell/Resolve-IT)
-
-### ♿ [Fikelela](https://github.com/Azile-cell/-Fikelela)
-
-![Status](https://img.shields.io/badge/Status-Prototype-F4B400?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Accessibility-0078D4?style=flat-square)
-
-Fikelela is an accessibility-first course discovery prototype. It helps learners find free courses based on requirements such as screen-reader support, keyboard navigation, captions, transcripts, and low-data access.
-
-I developed and published this AI-assisted proof of concept while preparing an application for a Geekulcha hackathon. It demonstrates the proposed experience and concept, but it is not currently a finished production system.
-
-[View Live Demo](https://azile-cell.github.io/-Fikelela/) | [View Repository](https://github.com/Azile-cell/-Fikelela)
-
-### 🧭 [UJ Compass](https://github.com/Azile-cell/UJ-Compass)
-
-![Status](https://img.shields.io/badge/Status-Hackathon_Prototype-8A2BE2?style=flat-square)
-
-A student-support and service-routing prototype built during the UJ DevSoc Hackathon 2026.
-
-[View the UJ Compass repository](https://github.com/Azile-cell/UJ-Compass)
-
-## 📂 More Projects
-
-* 🌐 [Personal Portfolio](https://github.com/Azile-cell/Azile-portfolio)
-* 🤖 [AI Productivity Assistant](https://github.com/Azile-cell/AI-Productivity-Assistant)
-* 💻 [C# Learning Journey](https://github.com/Azile-cell/csharp-learning-journey)
-* 🎮 [SQL Video Games Project](https://github.com/Azile-cell/-datacamp-sql-video-games-project)
-
-## 📚 Currently Learning
+<img src="assets/room-study.svg" width="100%" alt="The Study, an animated red LED section sign for technologies and learning">
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Learning-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Azure](https://img.shields.io/badge/Learning-Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Improving-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Testing](https://img.shields.io/badge/Learning-Software_Testing-2EA44F?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-FF1F2D?style=for-the-badge\&logo=csharp\&logoColor=white\&labelColor=0A0A0A)
+![.NET](https://img.shields.io/badge/.NET-FF1F2D?style=for-the-badge\&logo=dotnet\&logoColor=white\&labelColor=0A0A0A)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-FF1F2D?style=for-the-badge\&logo=dotnet\&logoColor=white\&labelColor=0A0A0A)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-FF1F2D?style=for-the-badge\&logo=dotnet\&logoColor=white\&labelColor=0A0A0A)
+![SQLite](https://img.shields.io/badge/SQLite-FF1F2D?style=for-the-badge\&logo=sqlite\&logoColor=white\&labelColor=0A0A0A)
+![SQL](https://img.shields.io/badge/SQL-FF1F2D?style=for-the-badge\&labelColor=0A0A0A)
+![HTML5](https://img.shields.io/badge/HTML5-FF1F2D?style=for-the-badge\&logo=html5\&logoColor=white\&labelColor=0A0A0A)
+![CSS3](https://img.shields.io/badge/CSS3-FF1F2D?style=for-the-badge\&logo=css3\&logoColor=white\&labelColor=0A0A0A)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF1F2D?style=for-the-badge\&logo=javascript\&logoColor=white\&labelColor=0A0A0A)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-FF1F2D?style=for-the-badge\&logo=bootstrap\&logoColor=white\&labelColor=0A0A0A)
+![Git](https://img.shields.io/badge/Git-FF1F2D?style=for-the-badge\&logo=git\&logoColor=white\&labelColor=0A0A0A)
+![GitHub](https://img.shields.io/badge/GitHub-FF1F2D?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=0A0A0A)
+
+![Learning Python](https://img.shields.io/badge/LEARNING-PYTHON-FF1F2D?style=for-the-badge\&logo=python\&logoColor=white\&labelColor=0A0A0A)
+![Learning Azure](https://img.shields.io/badge/LEARNING-AZURE-FF1F2D?style=for-the-badge\&logo=microsoftazure\&logoColor=white\&labelColor=0A0A0A)
+![Learning Testing](https://img.shields.io/badge/LEARNING-SOFTWARE_TESTING-FF1F2D?style=for-the-badge\&labelColor=0A0A0A)
+![Learning Deployment](https://img.shields.io/badge/LEARNING-DEPLOYMENT-FF1F2D?style=for-the-badge\&labelColor=0A0A0A)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Azile-cell&show_icons=true&include_all_commits=true&hide_border=false&border_radius=18&bg_color=000000&title_color=FF1F2D&text_color=FFD9D9&icon_color=FF5A5F&border_color=7A0010&custom_title=AT%27s%20GitHub%20Stats" width="100%" alt="Azile Gomomo's GitHub statistics in red on black">
+
+<img src="https://streak-stats.demolab.com?user=Azile-cell&hide_border=false&border_radius=18&background=000000&border=7A0010&stroke=7A0010&ring=FF1F2D&fire=FF1F2D&currStreakNum=FFD9D9&sideNums=FFD9D9&currStreakLabel=FF5A5F&sideLabels=FF5A5F&dates=E10600" width="100%" alt="Azile Gomomo's contribution streak in red on black">
 
 </div>
 
-## 🎯 Career Interests
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/snake-rest.svg">
+  <img src="assets/github-snake.svg" width="100%" alt="Animated red snake moving across Azile Gomomo's GitHub contribution grid">
+</picture>
 
-* Software Development
-* Full-Stack Development
-* Database Development
-* Data Engineering
-* Data Analysis
-* Cloud Technologies
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_red&quoteColor=FFD9D9&authorColor=FF5A5F&backgroundColor=000000&symbolColor=FF1F2D&border=true" width="100%" alt="Random developer quote in red on black">
+  </a>
+</div>
 
-
-## 📫 Get in Touch
-
-I’m open to learning opportunities, bursaries, internships, hackathons, and collaborative technology projects.
-
-[![Email](https://img.shields.io/badge/Contact_Me-gomomoazile68%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gomomoazile68@gmail.com)
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://za.linkedin.com/in/azile-gomomo-520b33366)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gomomoazile68@gmail.com)
-
-## 📊 GitHub Activity
-
-![Azile's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Azile-cell&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false)
-
-![Azile's GitHub Streak](https://streak-stats.demolab.com/?user=Azile-cell&theme=ayu-mirage&hide_border=false)
-
-## ✍️ Random Developer Quote
+<img src="assets/room-doorbell.svg" width="100%" alt="The Doorbell, an animated red LED contact section sign">
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+<a href="mailto:gomomoazile68@gmail.com"><img src="https://img.shields.io/badge/EMAIL-RING_THE_BELL-FF1F2D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Email Azile Gomomo"></a> <a href="https://github.com/Azile-cell"><img src="https://img.shields.io/badge/GITHUB-AZILE--CELL-FF1F2D?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="Visit Azile Gomomo's GitHub profile"></a> <a href="https://github.com/Azile-cell/Azile-portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-STEP_INSIDE-FF1F2D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A0A" alt="Open Azile Gomomo's portfolio repository"></a>
 
 </div>
+
+<img src="assets/hallway-light.svg" width="100%" alt="Animated red heartbeat line with the message: The hallway light stays on. Come back anytime.">
+
  
