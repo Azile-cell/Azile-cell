@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" role="img" aria-labelledby="title desc">
+  <title id="title">About Azile Gomomo</title>
+  <desc id="desc">Azile is a BCom Information Systems student at UJ pursuing full-stack and database development.</desc>
+
+  <style>
+    .panel { fill: #0A0A0A; stroke: #7A0010; stroke-width: 2; animation: roomBreath 8s ease-in-out infinite; }
+    .eyebrow { fill: #FF1F2D; font: 700 13px ui-monospace, Consolas, "Courier New", monospace; letter-spacing: 3px; }
+    .copy { fill: #FFD9D9; font: 500 19px ui-monospace, Consolas, "Courier New", monospace; }
+    .accent { fill: #FF5A5F; }
+    .monogramRing { fill: none; stroke: #FF1F2D; stroke-width: 3; animation: ringBreath 7s ease-in-out infinite; }
+    .monogram { fill: #FFD9D9; font: 800 62px ui-monospace, Consolas, "Courier New", monospace; text-anchor: middle; }
+    @keyframes roomBreath {
+      0%, 100% { stroke-opacity: .45; filter: url(#soft); }
+      50% { stroke-opacity: 1; filter: url(#hot); }
+    }
+    @keyframes ringBreath {
+      0%, 100% { opacity: .55; }
+      50% { opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .panel, .monogramRing { animation: none !important; }
+      .panel { stroke-opacity: .8; filter: url(#soft); }
+      .monogramRing { opacity: .85; }
+    }
+  </style>
+
+  <defs>
+    <filter id="soft" x="-30%" y="-40%" width="160%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="hot" x="-40%" y="-50%" width="180%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="700" height="300" rx="24" fill="#000000"/>
+  <rect class="panel" x="12" y="12" width="676" height="276" rx="22"/>
+
+  <text class="eyebrow" x="42" y="55">HELLO, I'M AT</text>
+  <circle class="accent" cx="43" cy="82" r="4" filter="url(#hot)"/>
+
+  <text class="copy" x="62" y="89">Azile Gomomo.</text>
+  <text class="copy" x="42" y="126">BCom Information Systems student at UJ.</text>
+  <text class="copy" x="42" y="163">Learning through coursework, hackathons</text>
+  <text class="copy" x="42" y="192">and practical projects that solve real problems.</text>
+  <text class="copy" x="42" y="229">Current direction: full-stack development</text>
+  <text class="copy" x="42" y="258">with strong database skills.</text>
+
+  <circle class="monogramRing" cx="592" cy="105" r="62" filter="url(#hot)"/>
+  <circle cx="592" cy="105" r="48" fill="#000000" stroke="#7A0010"/>
+  <text class="monogram" x="592" y="126" filter="url(#soft)">AT</text>
+</svg>
