@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Welcome home, Azile Gomomo</title>
+  <desc id="desc">A red LED strip powers on, Azile Gomomo's name flickers once, and introductory lines type beneath it.</desc>
+
+  <style>
+    .frame { fill: none; stroke: #7A0010; stroke-width: 2; opacity: 0; animation: frameIn 2s ease-out forwards; }
+    .strip { fill: none; stroke: #FF1F2D; stroke-width: 6; stroke-linecap: round; stroke-dasharray: 760; stroke-dashoffset: 760; animation: powerOn 1.8s ease-out forwards, stripBreath 8s ease-in-out 1.8s infinite; }
+    .power { fill: #FFD9D9; animation: powerBreath 7s ease-in-out 1.8s infinite; }
+    .kicker { fill: #FF5A5F; font: 600 16px ui-monospace, Consolas, "Courier New", monospace; letter-spacing: 4px; }
+    .name { fill: url(#nameFlow); font: 800 72px ui-monospace, Consolas, "Courier New", monospace; text-anchor: middle; opacity: 0; animation: signOn 2.6s ease-out .7s forwards, nameBreath 7s ease-in-out 3.3s infinite; }
+    .typeLine { fill: #FFD9D9; font: 500 25px ui-monospace, Consolas, "Courier New", monospace; opacity: 0; animation: showLine 20s linear infinite; }
+    .clip { width: 0; animation: reveal 20s steps(30, end) infinite; }
+    .line1, #clip1 { animation-delay: 3.3s; }
+    .line2, #clip2 { animation-delay: 8.3s; }
+    .line3, #clip3 { animation-delay: 13.3s; }
+    .line4, #clip4 { animation-delay: 18.3s; }
+    .signature { fill: #7A0010; font: 600 13px ui-monospace, Consolas, "Courier New", monospace; letter-spacing: 3px; text-anchor: middle; }
+
+    @keyframes frameIn {
+      to { opacity: .72; }
+    }
+
+    @keyframes powerOn {
+      to { stroke-dashoffset: 0; }
+    }
+
+    @keyframes stripBreath {
+      0%, 100% { opacity: .62; }
+      50% { opacity: 1; }
+    }
+
+    @keyframes powerBreath {
+      0%, 100% { opacity: .5; }
+      50% { opacity: 1; }
+    }
+
+    @keyframes signOn {
+      0%, 28% { opacity: 0; }
+      34% { opacity: 1; }
+      39% { opacity: .35; }
+      44% { opacity: 1; }
+      49% { opacity: .72; }
+      56%, 100% { opacity: 1; }
+    }
+
+    @keyframes nameBreath {
+      0%, 100% { filter: url(#glowSoft); }
+      50% { filter: url(#glowHot); }
+    }
+
+    @keyframes showLine {
+      0%, 2% { opacity: 0; }
+      4%, 22% { opacity: 1; }
+      25%, 100% { opacity: 0; }
+    }
+
+    @keyframes reveal {
+      0%, 3% { width: 0; }
+      18%, 23% { width: 670px; }
+      25%, 100% { width: 0; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .frame, .strip, .power, .name, .typeLine, .clip {
+        animation: none !important;
+      }
+      .frame { opacity: .72; }
+      .strip { stroke-dashoffset: 0; opacity: .85; }
+      .name { opacity: 1; fill: #FF5A5F !important; filter: url(#glowSoft); }
+      .typeLine { display: none; }
+      .line1 { display: block; opacity: 1; }
+      #clip1 { width: 670px; }
+      #clip2, #clip3, #clip4 { width: 0; }
+    }
+  </style>
+
+  <defs>
+    <filter id="glowSoft" x="-40%" y="-60%" width="180%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowHot" x="-50%" y="-70%" width="200%" height="240%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="nameFlow" gradientUnits="userSpaceOnUse" x1="-400" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#7A0010"/>
+      <stop offset=".42" stop-color="#FF1F2D"/>
+      <stop offset=".54" stop-color="#FFD9D9"/>
+      <stop offset=".68" stop-color="#FF5A5F"/>
+      <stop offset="1" stop-color="#7A0010"/>
+      <animate attributeName="x1" values="-500;900" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-100;1300" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <clipPath id="typing1">
+      <rect id="clip1" class="clip" x="115" y="210" width="0" height="42"/>
+    </clipPath>
+    <clipPath id="typing2">
+      <rect id="clip2" class="clip" x="115" y="210" width="0" height="42"/>
+    </clipPath>
+    <clipPath id="typing3">
+      <rect id="clip3" class="clip" x="115" y="210" width="0" height="42"/>
+    </clipPath>
+    <clipPath id="typing4">
+      <rect id="clip4" class="clip" x="115" y="210" width="0" height="42"/>
+    </clipPath>
+  </defs>
+
+  <rect width="900" height="360" rx="28" fill="#000000"/>
+  <path class="frame" d="M70 300V72H830V300" filter="url(#glowSoft)"/>
+  <line class="strip" x1="70" y1="72" x2="830" y2="72" filter="url(#glowHot)"/>
+  <circle class="power" cx="70" cy="72" r="5" filter="url(#glowHot)"/>
+
+  <text class="kicker" x="450" y="118" text-anchor="middle">THE DOOR IS OPEN</text>
+  <text class="name" x="450" y="188">AZILE GOMOMO</text>
+
+  <text class="typeLine line1" x="115" y="242" clip-path="url(#typing1)">Welcome home.</text>
+  <text class="typeLine line2" x="115" y="242" clip-path="url(#typing2)">I'm AT, a BCom Information Systems student at UJ.</text>
+  <text class="typeLine line3" x="115" y="242" clip-path="url(#typing3)">I'm building full-stack and database skills.</text>
+  <text class="typeLine line4" x="115" y="242" clip-path="url(#typing4)">Come in. The workshop is still warm.</text>
+
+  <text class="signature" x="450" y="326">AT  •  JOHANNESBURG  •  BUILDING ONE ROOM AT A TIME</text>
+</svg>
