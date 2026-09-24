@@ -276,8 +276,9 @@
       </g>
     </g>
     <g class="caption" filter="url(#soft)">
-      <text class="f" x="64" y="214" font-size="46" font-weight="700" fill="#E8A857">Welcome</text>
+      <text class="f" x="64" y="114" font-size="46" font-weight="700" fill="#E8A857">MNU/NKSZN</text>
+      <text class="f" x="64" y="214" font-size="46" font-weight="700" fill="#E8A857">Molo!</text>
     </g>
-    <text class="f caption" x="66" y="246" font-size="17" fill="#E7CFD1">Make yourself at home.</text>
+    <text class="f caption" x="60" y="246" font-size="20" fill="#E7CFD1">Zenze uzive usekhaya.</text>
   </g>
 </svg>
