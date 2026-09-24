@@ -4,7 +4,7 @@
 
 <img src="assets/room-living.svg" width="100%" alt="About me. Come in and get to know me.">
 
-<img src="assets/about.svg" width="100%" alt="Hi, I'm Azile Gomomo. I study BCom Information Systems at the University of Johannesburg (UJ). I learn through coursework, hackathons and hands-on projects that solve real problems. My goal is to become a capable software developer with strong full-stack and database skills.">
+<img src="assets/about.svg" width="100%" alt="Hi, I'm Azile Gomomo. I study BCom Information Systems at the University of Johannesburg (UJ). I learn through coursework, hackathons and hands-on projects that solve real problems. My goal is to become a capable software developer with strong programming and database skills.">
 
 <img src="assets/room-workshop.svg" width="100%" alt="Projects. Things I've built. Click a card to open it on GitHub.">
 
