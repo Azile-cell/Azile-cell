@@ -125,6 +125,7 @@
       <text x="-28.6" y="-12.9" font-family='Rockwell, "Roboto Slab", "Rockwell Extra Bold", Georgia, serif' font-weight="900" font-size="4.1" fill="#F3E9D2" textLength="13.0" lengthAdjust="spacingAndGlyphs">NAVADA</text>
       <text x="-26.0" y="-10.3" font-family="Georgia,serif" font-style="italic" font-size="1.7" fill="#F3E9D2" textLength="9.0" lengthAdjust="spacingAndGlyphs">Since 1969</text>
     </g>
+    </g></g>
     <rect x="326" y="222" width="108" height="78" rx="18" fill="#1E2126" stroke="#343941" stroke-width="1.5"/>
       <rect x="342" y="225" width="76" height="2.5" rx="1.2" fill="#FF1F2D" opacity=".85"/></g>
         <g class="seated"><g transform="translate(0,56)"><rect x="368" y="116" width="24" height="26" fill="#6E4530"/>
@@ -275,9 +276,8 @@
       </g>
     </g>
     <g class="caption" filter="url(#soft)">
-      <text class="f" x="64" y="114" font-size="46" font-weight="700" fill="#E8A857">Mnu/Nkszn</text>
-      <text class="f" x="64" y="74" font-size="46" font-weight="700" fill="#E8A857">Molo</text>
+      <text class="f" x="64" y="214" font-size="46" font-weight="700" fill="#E8A857">Welcome</text>
     </g>
-    <text class="f caption" x="60" y="246" font-size="20" fill="#E7CFD1">Zenze uzive usekhaya.</text>
+    <text class="f caption" x="66" y="246" font-size="17" fill="#E7CFD1">Make yourself at home.</text>
   </g>
 </svg>
