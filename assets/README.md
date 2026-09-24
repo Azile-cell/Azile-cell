@@ -1,5 +1,7 @@
 <img src="assets/hero.svg" width="100%" alt="Azile Gomomo. Aspiring full-stack and database developer. BCom Information Systems student at the University of Johannesburg. Open to internships, bursaries and hackathons.">
 
+<img src="assets/welcome-doll.svg" width="100%" alt="An animated cartoon character in an office chair. He starts with his back to you, wearing a plaid cap with a small NAVADA label. The chair turns, he stands up, takes off his cap and bows his head to welcome you.">
+
 <img src="assets/room-living.svg" width="100%" alt="About me. Come in and get to know me.">
 
 <img src="assets/about.svg" width="100%" alt="Hi, I'm Azile Gomomo. I study BCom Information Systems at the University of Johannesburg (UJ). I learn through coursework, hackathons and hands-on projects that solve real problems. My goal is to become a capable software developer with strong full-stack and database skills.">
@@ -20,27 +22,29 @@
 
 <a href="https://github.com/Azile-cell/-datacamp-sql-video-games-project"><img src="assets/card-sql-games.svg" width="100%" alt="SQL Video Games, data project. SQL analysis of video game sales and scores, completed on DataCamp. Opens the repository."></a>
 
-<img src="assets/room-study.svg" width="100%" alt="Skills and tools. What I work with, and what I'm learning next.">
+<img src="assets/room-study.svg" width="100%" alt="Skills and tools. Red badges are languages, amber are frameworks and data, violet are tools, and teal are what I am learning next.">
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-FF1F2D?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0A0A0A)
-![.NET](https://img.shields.io/badge/.NET-FF1F2D?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0A0A0A)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-FF1F2D?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0A0A0A)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-FF1F2D?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0A0A0A)
-![SQLite](https://img.shields.io/badge/SQLite-FF1F2D?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0A0A0A)
-![SQL](https://img.shields.io/badge/SQL-FF1F2D?style=for-the-badge&labelColor=0A0A0A)
-![HTML5](https://img.shields.io/badge/HTML5-FF1F2D?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0A0A)
-![CSS3](https://img.shields.io/badge/CSS3-FF1F2D?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF1F2D?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0A0A)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-FF1F2D?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0A0A0A)
-![Git](https://img.shields.io/badge/Git-FF1F2D?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A)
-![GitHub](https://img.shields.io/badge/GitHub-FF1F2D?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)
+![C#](https://img.shields.io/badge/C%23-E10600?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0A0A0A)
+![SQL](https://img.shields.io/badge/SQL-E10600?style=for-the-badge&labelColor=0A0A0A)
+![JavaScript](https://img.shields.io/badge/JavaScript-E10600?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0A0A)
+![HTML5](https://img.shields.io/badge/HTML5-E10600?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0A0A)
+![CSS3](https://img.shields.io/badge/CSS3-E10600?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A)
 
-![Learning Python](https://img.shields.io/badge/LEARNING-PYTHON-FF1F2D?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0A)
-![Learning Azure](https://img.shields.io/badge/LEARNING-AZURE-FF1F2D?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0A0A0A)
-![Learning Software Testing](https://img.shields.io/badge/LEARNING-SOFTWARE_TESTING-FF1F2D?style=for-the-badge&labelColor=0A0A0A)
-![Learning Deployment](https://img.shields.io/badge/LEARNING-DEPLOYMENT-FF1F2D?style=for-the-badge&labelColor=0A0A0A)
+![.NET](https://img.shields.io/badge/.NET-F2A93B?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0A0A0A)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-F2A93B?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0A0A0A)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-F2A93B?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0A0A0A)
+![SQLite](https://img.shields.io/badge/SQLite-F2A93B?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0A0A0A)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-F2A93B?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0A0A0A)
+
+![Git](https://img.shields.io/badge/Git-8B7CF6?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A)
+![GitHub](https://img.shields.io/badge/GitHub-8B7CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)
+
+![Learning Python](https://img.shields.io/badge/LEARNING-PYTHON-22C1A8?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0A)
+![Learning Azure](https://img.shields.io/badge/LEARNING-AZURE-22C1A8?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0A0A0A)
+![Learning Software Testing](https://img.shields.io/badge/LEARNING-SOFTWARE_TESTING-22C1A8?style=for-the-badge&labelColor=0A0A0A)
+![Learning Deployment](https://img.shields.io/badge/LEARNING-DEPLOYMENT-22C1A8?style=for-the-badge&labelColor=0A0A0A)
 
 </div>
 
@@ -67,7 +71,7 @@
 
 <div align="center">
 
-<a href="mailto:gomomoazile68@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_A_MESSAGE-FF1F2D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Email Azile Gomomo"></a> <a href="https://github.com/Azile-cell"><img src="https://img.shields.io/badge/GITHUB-AZILE--CELL-FF1F2D?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="Visit Azile Gomomo's GitHub profile"></a> <a href="https://github.com/Azile-cell/Azile-portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW_MY_WORK-FF1F2D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A0A" alt="Open Azile Gomomo's portfolio repository"></a>
+<a href="mailto:gomomoazile68@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_A_MESSAGE-E10600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Email Azile Gomomo"></a> <a href="https://github.com/Azile-cell"><img src="https://img.shields.io/badge/GITHUB-AZILE--CELL-8B7CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="Visit Azile Gomomo's GitHub profile"></a> <a href="https://github.com/Azile-cell/Azile-portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW_MY_WORK-22C1A8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A0A" alt="Open Azile Gomomo's portfolio repository"></a>
 
 </div>
 
