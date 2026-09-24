@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="Azile Gomomo. Intrested in software development, databases, data analytics and cloud technologies. BCom Information Systems student at the University of Johannesburg. Open to internships, bursaries and hackathons.">
+<img src="assets/hero.svg" width="100%" alt="Azile Gomomo. Intrested in software development, databases, data analytics and cloud technologies. BCom Information Systems student at the University of Johannesburg. Open to collaboration, internships and hackathons.">
 
 <img src="assets/welcome-doll.svg" width="100%" alt="An animated cartoon character in an office chair. He starts with his back to you, wearing a plaid cap with a small NAVADA label. The chair turns, he stands up, takes off his cap and bows his head to welcome you.">
 
