@@ -1,4 +1,5 @@
 <img src="assets/hero.svg" width="100%" alt="Azile Gomomo. Intrested in software development, databases, data analytics and cloud technologies. BCom Information Systems student at the University of Johannesburg. Open to collaboration, internships and hackathons.">
+<img src="./assets/azile-github-banner.svg" alt="Azile Gomomo GitHub Banner" width="100%" />
 
 <img src="assets/welcome-doll.svg?v=3" width="100%" alt="An animated cartoon character in an office chair.">
 
