@@ -53,30 +53,15 @@ I am currently gaining practical experience as a **Data Visualization Trainee wi
 </a>
  
 ## Other Team Project
-
-**Solar Esy — Cisco × WeThinkCode_ She Builds Tomorrow Hackathon**
+ 
 <a href="https://github.com/Bathabile-Legodi/Generative-Coders-Waterwatch-AI">
   <img src="assets/card-waterwatch.svg" width="100%" alt="Waterwatch AI project card">
 </a>
-Contributed to **problem research, UI/UX, system architecture, workflow design, prototype development and solution Q&A**.
-
-[Team Repository](https://github.com/IT-Controll/Solar_Esy) ·
-[GitHub Organisation](https://github.com/IT-Controll)
-
----
-### Waterwatch AI — UJ × Vodacom × AWS AI for Africa Challenge
-
+ 
 <a href="https://github.com/IT-Controll/Solar_Esy">
   <img src="assets/card-solar-esy.svg" width="100%" alt="Solar Esy project card">
 </a>
-Collaborative municipal water-network prototype developed during the **Generative Coders challenge**.
-
-I contributed to **frontend/UI direction, user workflows, responsible AI considerations, product research and Git/GitHub documentation**.
-
-[Team Repository](https://github.com/Bathabile-Legodi/Generative-Coders-Waterwatch-AI)
-
----
-
+ 
 <img src="assets/room-study.svg" width="100%" alt="Technical skills and tools.">
 
 
