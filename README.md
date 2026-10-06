@@ -62,6 +62,15 @@ Contributed to **problem research, UI/UX, system architecture, workflow design, 
 [GitHub Organisation](https://github.com/IT-Controll)
 
 ---
+### Waterwatch AI — UJ × Vodacom × AWS AI for Africa Challenge
+
+Collaborative municipal water-network prototype developed during the **Generative Coders challenge**.
+
+I contributed to **frontend/UI direction, user workflows, responsible AI considerations, product research and Git/GitHub documentation**.
+
+[Team Repository](https://github.com/Bathabile-Legodi/Generative-Coders-Waterwatch-AI)
+
+---
 
 <img src="assets/room-study.svg" width="100%" alt="Technical skills and tools.">
 
