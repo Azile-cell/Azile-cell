@@ -65,7 +65,6 @@ Contributed to **problem research, UI/UX, system architecture, workflow design, 
 
 <img src="assets/room-study.svg" width="100%" alt="Technical skills and tools.">
 
-# Skills & Tools
 
 <div align="center">
 
