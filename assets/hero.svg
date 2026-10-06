@@ -88,7 +88,7 @@
   </g>
   <g class="rise">
     <text class="f" x="46" y="208" font-size="22" font-weight="700" fill="#E8A857">BCom Information Systems Student | Software Development</text>
-    <text class="f" x="48" y="220" font-size="22" font-weight="700" fill="#E8A857">• Data Analytics • Cloud </text>
+    <text class="f" x="50" y="230" font-size="22" font-weight="700" fill="#E8A857">| Data Analytics • Cloud </text>
     <text class="f" x="48" y="242" font-size="16" fill="#FFD9D9" fill-opacity="0.85">Long-term focus: Data Science</text>
     <rect x="48" y="268" width="470" height="38" rx="19" fill="none" stroke="#FF1F2D" stroke-width="1.5"/>
     <circle class="pulse" cx="70" cy="287" r="4.5" fill="#FF1F2D" filter="url(#soft)"/>
