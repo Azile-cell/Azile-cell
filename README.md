@@ -25,22 +25,11 @@ I am currently gaining practical experience as a **Data Visualization Trainee wi
 ---
 
 <img src="assets/room-workshop.svg" width="100%" alt="Projects section.">
-
-### ResolveIT — IT Support Ticket Management System
-
+ 
 <a href="https://github.com/Azile-cell/Resolve-IT">
   <img src="assets/card-resolveit.svg" width="100%" alt="ResolveIT IT support ticket management application.">
 </a>
-
-Database-backed support-ticket application built with **C#, ASP.NET Core MVC, Entity Framework Core and SQLite**.
-
-**What it demonstrates:** backend development, MVC architecture, CRUD operations and database integration.
-
-[Repository](https://github.com/Azile-cell/Resolve-IT)
-
----
-
-### UJ Compass — UJ DevSoc Hackathon 2026
+ 
 
 <a href="https://github.com/Azile-cell/UJ-Compass">
   <img src="assets/card-uj-compass.svg" width="100%" alt="UJ Compass student support prototype.">
