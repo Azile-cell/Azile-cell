@@ -35,7 +35,6 @@ I am currently gaining practical experience as a **Data Visualization Trainee wi
   <img src="assets/card-uj-compass.svg" width="100%" alt="UJ Compass student support prototype.">
 </a>
 
-Led a **four-member team of first-time hackathon participants** to develop a student-support prototype exploring service routing, support requests, digital queues and easier access to campus services.
 
 **Technologies:** HTML, CSS, JavaScript
 
