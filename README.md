@@ -2,13 +2,6 @@
 
 <div align="center">
 
-# Hi, I'm Azile Gomomo 👋
-
-**BCom Information Systems @ University of Johannesburg**  
-**Microsoft Certified: Azure Data Fundamentals (DP-900)**
-
-Building practical experience across **software development, data analytics and cloud technologies**, with a long-term goal in **Data Science**.
-
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW_MY_WORK-22C1A8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A0A)](https://azile-cell.github.io/Azile-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/azile-gomomo-520b33366/)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-E10600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A)](mailto:gomomoazile68@gmail.com)
@@ -21,8 +14,6 @@ Building practical experience across **software development, data analytics and 
 
 <img src="assets/room-living.svg" width="100%" alt="About me section.">
 
-## About Me
-
 I'm a **BCom Information Systems student at the University of Johannesburg** with hands-on experience across software development, databases, data analysis and technical projects.
 
 I have worked with **C#, ASP.NET Core, SQL, Microsoft SQL Server, JavaScript, TypeScript, Git/GitHub, Excel and Power BI**, while continuing to strengthen my skills in **Python and cloud technologies**.
@@ -34,8 +25,6 @@ I am currently gaining practical experience as a **Data Visualization Trainee wi
 ---
 
 <img src="assets/room-workshop.svg" width="100%" alt="Projects section.">
-
-# Featured Projects
 
 ### ResolveIT — IT Support Ticket Management System
 
@@ -196,8 +185,6 @@ Contributed to **problem research, UI/UX, system architecture, workflow design, 
 ---
 
 <img src="assets/room-doorbell.svg" width="100%" alt="Contact section.">
-
-# Contact
 
 <div align="center">
 
