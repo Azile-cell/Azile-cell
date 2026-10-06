@@ -42,7 +42,7 @@
   <rect class="strip" x="20" y="30" width="4" height="138" rx="2" fill="#FF1F2D" filter="url(#soft)"/>
   <text class="f" x="48" y="66" font-size="30" font-weight="700" fill="#E8A857" filter="url(#soft)">UJ Compass</text>
   <text class="f" x="48" y="106" font-size="17" fill="#FFD9D9" fill-opacity="0.92">Led a four-member team of first-time hackathon participants</text>
-  <text class="f" x="48" y="106" font-size="17" fill="#FFD9D9" fill-opacity="0.92">to build a student-support prototype for UJ services.</text>
+  <text class="f" x="48" y="136" font-size="17" fill="#FFD9D9" fill-opacity="0.92">to build a student-support prototype for UJ services.</text>
   <text class="f" x="48" y="168" font-size="13" font-weight="700" letter-spacing="1.5" fill="#E10600" xml:space="preserve">HTML  •  CSS  •  Javascript</text>
   <rect x="482" y="32" width="238" height="32" rx="16" fill="none" stroke="#FF1F2D" stroke-width="1.5"/>
   <circle class="pulse" cx="502" cy="48" r="4" fill="#FF1F2D" filter="url(#soft)"/>
