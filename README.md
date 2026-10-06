@@ -34,15 +34,7 @@ I am currently gaining practical experience as a **Data Visualization Trainee wi
 <a href="https://github.com/Azile-cell/UJ-Compass">
   <img src="assets/card-uj-compass.svg" width="100%" alt="UJ Compass student support prototype.">
 </a>
-
-
-**Technologies:** HTML, CSS, JavaScript
-
-[Live Demo](https://azile-cell.github.io/UJ-Compass/) ·
-[Repository](https://github.com/Azile-cell/UJ-Compass)
-
----
-
+ 
 ### WorkFlow AI — Workplace Productivity Prototype
 
 <a href="https://github.com/Azile-cell/AI-Productivity-Assistant">
@@ -58,42 +50,17 @@ The prototype supports structured workflows for email drafting, meeting summarie
 
 ---
 
-### Waterwatch AI — UJ × Vodacom × AWS AI for Africa Challenge
-
-Collaborative municipal water-network prototype developed during the **Generative Coders challenge**.
-
-I contributed to **frontend/UI direction, user workflows, responsible AI considerations, product research and Git/GitHub documentation**.
-
-[Team Repository](https://github.com/Bathabile-Legodi/Generative-Coders-Waterwatch-AI)
-
----
-
 ## More Work
 
 <a href="https://github.com/Azile-cell/-Fikelela">
   <img src="assets/card-fikelela.svg" width="100%" alt="Fikelela accessibility-focused learning discovery prototype.">
 </a>
-
-**Fikelela** — Led the team through a Geekulcha/Sonke hackathon application and independently developed the demonstration prototype.
-
----
+ 
 
 <a href="https://github.com/Azile-cell/-datacamp-sql-video-games-project">
   <img src="assets/card-sql-games.svg" width="100%" alt="SQL video games data analysis project.">
 </a>
-
-**SQL Video Games Analysis** — Analysed sales and review data using joins, grouping, filtering, sorting and aggregate queries.
-
----
-
-<a href="https://github.com/Azile-cell/csharp-learning-journey">
-  <img src="assets/card-csharp-journey.svg" width="100%" alt="C# learning projects and exercises.">
-</a>
-
-**C# Learning Journey** — Exercises and applications covering object-oriented programming, exceptions, file handling and Windows Forms.
-
----
-
+ 
 ## Other Team Project
 
 **Solar Esy — Cisco × WeThinkCode_ She Builds Tomorrow Hackathon**
@@ -148,7 +115,7 @@ Contributed to **problem research, UI/UX, system architecture, workflow design, 
 ## Currently Developing
 
 - Python programming
-- Advanced Power BI and data modelling
+- Power BI and data modelling
 - Cloud technologies
 - Data analysis and visualisation
 - Stronger software engineering fundamentals
