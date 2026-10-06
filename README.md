@@ -1,78 +1,212 @@
-<img src="assets/hero.svg" width="100%" alt="Azile Gomomo. Building skills in software development, databases, data analytics and cloud technologies. BCom Information Systems student at the University of Johannesburg. Open to internships, collaborations and hackathons.">
- 
-<img src="assets/welcome-doll.svg?v=3" width="100%" alt="An animated cartoon character in an office chair.">
-
-<img src="assets/room-living.svg" width="100%" alt="About me. Come in and get to know me.">
-
-<img src="assets/about.svg" width="100%" alt="Hi, I'm Azile Gomomo. I study BCom Information Systems at the University of Johannesburg (UJ). I learn through coursework, hackathons and hands-on projects that solve real problems. My goal is to become a capable software developer with strong programming and database skills.">
-
-<img src="assets/room-workshop.svg" width="100%" alt="Projects. Things I've built. Click a card to open it on GitHub.">
-
-<a href="https://github.com/Azile-cell/Resolve-IT"><img src="assets/card-resolveit.svg" width="100%" alt="ResolveIT, functional MVP. An IT support ticket app built with ASP.NET Core MVC and SQLite. Opens the repository."></a>
-
-<a href="https://github.com/Azile-cell/-Fikelela"><img src="assets/card-fikelela.svg" width="100%" alt="Fikelela, prototype. Helps learners find free courses that meet their accessibility needs. Opens the repository."></a>
-
-<a href="https://github.com/Azile-cell/UJ-Compass"><img src="assets/card-uj-compass.svg" width="100%" alt="UJ Compass, hackathon prototype. A student-support prototype that routes students to the right service. Opens the repository."></a>
-
-<a href="https://github.com/Azile-cell/Azile-portfolio"><img src="assets/card-portfolio.svg" width="100%" alt="Azile Portfolio, website. My personal portfolio site. Opens the repository."></a>
-
-<a href="https://github.com/Azile-cell/AI-Productivity-Assistant"><img src="assets/card-ai-assistant.svg" width="100%" alt="AI Productivity Assistant, concept. An AI assistant concept for the workplace, built with TypeScript. Opens the repository."></a>
-
-<a href="https://github.com/Azile-cell/csharp-learning-journey"><img src="assets/card-csharp-journey.svg" width="100%" alt="C# Learning Journey, learning project. Exercises and small applications covering OOP, files, exceptions and Windows Forms. Opens the repository."></a>
-
-<a href="https://github.com/Azile-cell/-datacamp-sql-video-games-project"><img src="assets/card-sql-games.svg" width="100%" alt="SQL Video Games, data project. SQL analysis of video game sales and scores, completed on DataCamp. Opens the repository."></a>
-
-<img src="assets/room-study.svg" width="100%" alt="Skills and tools. Red badges are languages, amber are frameworks and data, violet are tools, and teal are what I am learning next.">
+<img src="assets/hero.svg" width="100%" alt="Azile Gomomo — Information Systems student building across software development, data analytics and cloud technologies.">
 
 <div align="center">
+
+# Hi, I'm Azile Gomomo 👋
+
+**BCom Information Systems @ University of Johannesburg**  
+**Microsoft Certified: Azure Data Fundamentals (DP-900)**
+
+Building practical experience across **software development, data analytics and cloud technologies**, with a long-term goal in **Data Science**.
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW_MY_WORK-22C1A8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A0A)](https://azile-cell.github.io/Azile-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/azile-gomomo-520b33366/)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-E10600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A)](mailto:gomomoazile68@gmail.com)
+
+</div>
+
+---
+
+<img src="assets/welcome-doll.svg?v=3" width="100%" alt="Illustrated welcome section.">
+
+<img src="assets/room-living.svg" width="100%" alt="About me section.">
+
+## About Me
+
+I'm a **BCom Information Systems student at the University of Johannesburg** with hands-on experience across software development, databases, data analysis and technical projects.
+
+I have worked with **C#, ASP.NET Core, SQL, Microsoft SQL Server, JavaScript, TypeScript, Git/GitHub, Excel and Power BI**, while continuing to strengthen my skills in **Python and cloud technologies**.
+
+I also enjoy working in collaborative technical environments. I have led student teams through hackathons and project applications, coordinated team onboarding and GitHub collaboration, and contributed to projects involving software development, UI/UX, responsible AI and product thinking.
+
+I am currently gaining practical experience as a **Data Visualization Trainee with Excelerate** and am open to **internships, vacation work, student programmes, hackathons and collaborative technical projects**.
+
+---
+
+<img src="assets/room-workshop.svg" width="100%" alt="Projects section.">
+
+# Featured Projects
+
+### ResolveIT — IT Support Ticket Management System
+
+<a href="https://github.com/Azile-cell/Resolve-IT">
+  <img src="assets/card-resolveit.svg" width="100%" alt="ResolveIT IT support ticket management application.">
+</a>
+
+Database-backed support-ticket application built with **C#, ASP.NET Core MVC, Entity Framework Core and SQLite**.
+
+**What it demonstrates:** backend development, MVC architecture, CRUD operations and database integration.
+
+[Repository](https://github.com/Azile-cell/Resolve-IT)
+
+---
+
+### UJ Compass — UJ DevSoc Hackathon 2026
+
+<a href="https://github.com/Azile-cell/UJ-Compass">
+  <img src="assets/card-uj-compass.svg" width="100%" alt="UJ Compass student support prototype.">
+</a>
+
+Led a **four-member team of first-time hackathon participants** to develop a student-support prototype exploring service routing, support requests, digital queues and easier access to campus services.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[Live Demo](https://azile-cell.github.io/UJ-Compass/) ·
+[Repository](https://github.com/Azile-cell/UJ-Compass)
+
+---
+
+### WorkFlow AI — Workplace Productivity Prototype
+
+<a href="https://github.com/Azile-cell/AI-Productivity-Assistant">
+  <img src="assets/card-ai-assistant.svg" width="100%" alt="WorkFlow AI workplace productivity prototype.">
+</a>
+
+Built during the **CAPACITI AI Skills Acceleration Programme** using **Next.js, React and TypeScript**.
+
+The prototype supports structured workflows for email drafting, meeting summaries and task prioritisation.
+
+[Live Demo](https://ai-productivity-assistant-ebon.vercel.app/) ·
+[Repository](https://github.com/Azile-cell/AI-Productivity-Assistant)
+
+---
+
+### Waterwatch AI — UJ × Vodacom × AWS AI for Africa Challenge
+
+Collaborative municipal water-network prototype developed during the **Generative Coders challenge**.
+
+I contributed to **frontend/UI direction, user workflows, responsible AI considerations, product research and Git/GitHub documentation**.
+
+[Team Repository](https://github.com/Bathabile-Legodi/Generative-Coders-Waterwatch-AI)
+
+---
+
+## More Work
+
+<a href="https://github.com/Azile-cell/-Fikelela">
+  <img src="assets/card-fikelela.svg" width="100%" alt="Fikelela accessibility-focused learning discovery prototype.">
+</a>
+
+**Fikelela** — Led the team through a Geekulcha/Sonke hackathon application and independently developed the demonstration prototype.
+
+---
+
+<a href="https://github.com/Azile-cell/-datacamp-sql-video-games-project">
+  <img src="assets/card-sql-games.svg" width="100%" alt="SQL video games data analysis project.">
+</a>
+
+**SQL Video Games Analysis** — Analysed sales and review data using joins, grouping, filtering, sorting and aggregate queries.
+
+---
+
+<a href="https://github.com/Azile-cell/csharp-learning-journey">
+  <img src="assets/card-csharp-journey.svg" width="100%" alt="C# learning projects and exercises.">
+</a>
+
+**C# Learning Journey** — Exercises and applications covering object-oriented programming, exceptions, file handling and Windows Forms.
+
+---
+
+## Other Team Project
+
+**Solar Esy — Cisco × WeThinkCode_ She Builds Tomorrow Hackathon**
+
+Contributed to **problem research, UI/UX, system architecture, workflow design, prototype development and solution Q&A**.
+
+[Team Repository](https://github.com/IT-Controll/Solar_Esy) ·
+[GitHub Organisation](https://github.com/IT-Controll)
+
+---
+
+<img src="assets/room-study.svg" width="100%" alt="Technical skills and tools.">
+
+# Skills & Tools
+
+<div align="center">
+
+### Programming
 
 ![C#](https://img.shields.io/badge/C%23-E10600?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0A0A0A)
 ![SQL](https://img.shields.io/badge/SQL-E10600?style=for-the-badge&labelColor=0A0A0A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E10600?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0A0A)
-![HTML5](https://img.shields.io/badge/HTML5-E10600?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0A0A)
-![CSS3](https://img.shields.io/badge/CSS3-E10600?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A)
+![TypeScript](https://img.shields.io/badge/TypeScript-E10600?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0A0A0A)
+![Python](https://img.shields.io/badge/Python-E10600?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0A)
+
+### Development
 
 ![.NET](https://img.shields.io/badge/.NET-F2A93B?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0A0A0A)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-F2A93B?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0A0A0A)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-F2A93B?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0A0A0A)
-![SQLite](https://img.shields.io/badge/SQLite-F2A93B?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0A0A0A)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-F2A93B?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0A0A0A)
+![React](https://img.shields.io/badge/React-F2A93B?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0A0A)
+![Next.js](https://img.shields.io/badge/Next.js-F2A93B?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0A0A)
+
+### Data & Cloud
+
+![Power BI](https://img.shields.io/badge/Power_BI-22C1A8?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0A0A0A)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-22C1A8?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0A0A0A)
+![Excel](https://img.shields.io/badge/Excel-22C1A8?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0A0A0A)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-22C1A8?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0A0A0A)
+
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-8B7CF6?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A)
 ![GitHub](https://img.shields.io/badge/GitHub-8B7CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)
-
-![Learning Python](https://img.shields.io/badge/LEARNING-PYTHON-22C1A8?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0A)
-![Learning Azure](https://img.shields.io/badge/LEARNING-AZURE-22C1A8?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0A0A0A)
-![Learning Software Testing](https://img.shields.io/badge/LEARNING-SOFTWARE_TESTING-22C1A8?style=for-the-badge&labelColor=0A0A0A)
-![Learning Deployment](https://img.shields.io/badge/LEARNING-DEPLOYMENT-22C1A8?style=for-the-badge&labelColor=0A0A0A)
+![VS Code](https://img.shields.io/badge/VS_Code-8B7CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0A0A0A)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-8B7CF6?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=0A0A0A)
 
 </div>
 
-<img src="assets/room-activity.svg" width="100%" alt="GitHub activity. My contributions and current streak.">
+---
+
+## Currently Developing
+
+- Python programming
+- Advanced Power BI and data modelling
+- Cloud technologies
+- Data analysis and visualisation
+- Stronger software engineering fundamentals
+
+---
+
+<img src="assets/room-activity.svg" width="100%" alt="GitHub activity.">
+
+# GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Azile-cell&hide_border=false&border_radius=18&background=000000&border=7A0010&stroke=7A0010&ring=FF1F2D&fire=FF1F2D&currStreakNum=FFD9D9&sideNums=FFD9D9&currStreakLabel=FF5A5F&sideLabels=FF5A5F&dates=E10600" width="100%" alt="Azile Gomomo's GitHub contribution streak in red on black">
+<img src="https://streak-stats.demolab.com?user=Azile-cell&hide_border=false&border_radius=18&background=000000&border=7A0010&stroke=7A0010&ring=FF1F2D&fire=FF1F2D&currStreakNum=FFD9D9&sideNums=FFD9D9&currStreakLabel=FF5A5F&sideLabels=FF5A5F&dates=E10600" width="100%" alt="Azile Gomomo GitHub contribution streak">
 
 </div>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/snake-rest.svg">
-  <img src="https://raw.githubusercontent.com/Azile-cell/Azile-cell/output/github-snake.svg" width="100%" alt="Animated red snake moving across Azile Gomomo's GitHub contribution grid">
+  <img src="https://raw.githubusercontent.com/Azile-cell/Azile-cell/output/github-snake.svg" width="100%" alt="GitHub contribution activity animation">
 </picture>
 
-<div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_red&quoteColor=FFD9D9&authorColor=FF5A5F&backgroundColor=000000&symbolColor=FF1F2D&border=true" width="100%" alt="Random developer quote in red on black">
-  </a>
-</div>
+---
 
-<img src="assets/room-doorbell.svg" width="100%" alt="Contact. Want to work together? Get in touch.">
+<img src="assets/room-doorbell.svg" width="100%" alt="Contact section.">
+
+# Contact
 
 <div align="center">
 
-<a href="mailto:gomomoazile68@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_A_MESSAGE-E10600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Email Azile Gomomo"></a> <a href="https://github.com/Azile-cell"><img src="https://img.shields.io/badge/GITHUB-AZILE--CELL-8B7CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="Visit Azile Gomomo's GitHub profile"></a> <a href="https://github.com/Azile-cell/Azile-portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW_MY_WORK-22C1A8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A0A" alt="Open Azile Gomomo's portfolio repository"></a>
+<a href="mailto:gomomoazile68@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_A_MESSAGE-E10600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Email Azile Gomomo"></a>
+
+<a href="https://www.linkedin.com/in/azile-gomomo-520b33366/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="Connect with Azile Gomomo on LinkedIn"></a>
+
+<a href="https://azile-cell.github.io/Azile-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW_MY_WORK-22C1A8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A0A" alt="Visit Azile Gomomo's portfolio"></a>
 
 </div>
 
-<img src="assets/hallway-light.svg" width="100%" alt="Thanks for stopping by. I'm still learning and still building. Say hello any time.">
+<img src="assets/hallway-light.svg" width="100%" alt="End of profile.">
