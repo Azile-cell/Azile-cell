@@ -35,20 +35,11 @@ I am currently gaining practical experience as a **Data Visualization Trainee wi
   <img src="assets/card-uj-compass.svg" width="100%" alt="UJ Compass student support prototype.">
 </a>
  
-### WorkFlow AI — Workplace Productivity Prototype
 
-<a href="https://github.com/Azile-cell/AI-Productivity-Assistant">
+<a href="https://github.com/Azile-cell/WorkFlow AI">
   <img src="assets/card-ai-assistant.svg" width="100%" alt="WorkFlow AI workplace productivity prototype.">
 </a>
 
-Built during the **CAPACITI AI Skills Acceleration Programme** using **Next.js, React and TypeScript**.
-
-The prototype supports structured workflows for email drafting, meeting summaries and task prioritisation.
-
-[Live Demo](https://ai-productivity-assistant-ebon.vercel.app/) ·
-[Repository](https://github.com/Azile-cell/AI-Productivity-Assistant)
-
----
 
 ## More Work
 
@@ -123,8 +114,6 @@ Contributed to **problem research, UI/UX, system architecture, workflow design, 
 ---
 
 <img src="assets/room-activity.svg" width="100%" alt="GitHub activity.">
-
-# GitHub Activity
 
 <div align="center">
 
