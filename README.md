@@ -14,13 +14,15 @@
 
 <img src="assets/room-living.svg" width="100%" alt="About me section.">
 
-I'm a **BCom Information Systems student at the University of Johannesburg** with hands-on experience across software development, databases, data analysis and technical projects.
+I'm a **BCom Information Systems student at the University of Johannesburg** with hands-on experience in software development, databases, data analytics, cloud technologies and AI-powered applications.
 
-I have worked with **C#, ASP.NET Core, SQL, Microsoft SQL Server, JavaScript, TypeScript, Git/GitHub, Excel and Power BI**, while continuing to strengthen my skills in **Python and cloud technologies**.
+My technical experience includes **C#, ASP.NET Core, SQL, Microsoft SQL Server, JavaScript, TypeScript, Python, Git/GitHub, Excel and Power BI**. Through practical projects and hackathons, I've also gained experience with **REST APIs, Google Agent Development Kit (ADK), Gemini API integration, multi-agent AI workflows, automated testing and application deployment**.
 
-I also enjoy working in collaborative technical environments. I have led student teams through hackathons and project applications, coordinated team onboarding and GitHub collaboration, and contributed to projects involving software development, UI/UX, responsible AI and product thinking.
+I enjoy turning ideas into working prototypes and collaborating with people to solve real-world problems. I've led student development teams during hackathons, coordinated technical work and contributed hands-on to building, testing and deploying applications. These experiences have strengthened my problem-solving, debugging, teamwork and technical leadership skills.
 
-I am currently gaining practical experience as a **Data Visualization Trainee with Excelerate** and am open to **internships, vacation work, student programmes, hackathons and collaborative technical projects**.
+I'm currently gaining practical experience as a **Data Visualization Trainee with Excelerate**, while continuing to develop my skills in software engineering, data analytics and emerging AI technologies.
+
+I'm open to **software development and data-related internships, vacation work, graduate opportunities, student programmes and collaborative technical projects**.
 
 ---
 
