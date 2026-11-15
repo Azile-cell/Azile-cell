@@ -52,7 +52,18 @@ I am currently gaining practical experience as a **Data Visualization Trainee wi
   <img src="assets/card-sql-games.svg" width="100%" alt="SQL video games data analysis project.">
 </a>
  
-## Other Team Project
+## Other Team Projects
+
+<a href="https://github.com/the-it-crowd-ai/eduops-clarify">
+  <img src="assets/card-eduops-clarify.svg" width="100%" alt="EduOps Clarify — AI-powered educational assessment prototype developed by The IT Crowd.">
+</a>
+
+<p>
+  <a href="https://eduops-clarify-itcrowd.streamlit.app/">
+    View offline demonstration
+  </a>
+</p>
+
  
 <a href="https://github.com/Bathabile-Legodi/Generative-Coders-Waterwatch-AI">
   <img src="assets/card-waterwatch.svg" width="100%" alt="Waterwatch AI project card">
